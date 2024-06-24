@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Kokane</h1>
-<h3 align="center">I am a highly motivated and passionate pre-final year student at Pune Institute of Computer Technology (PICT), Pune. Over the course of my three-year journey in engineering, I've had the privilege of exploring various domains within the vast realm of technology. From iOS app development to diving into the complexities of machine learning and even venturing into the world of web development, my insatiable curiosity has led the way.</h3>
+<h3 align="center">I am a final year student at Pune Institute of Computer Technology (PICT), Pune. Throughout my four-year journey in engineering, I have explored diverse domains in technology, applying my knowledge in iOS app development, navigating complex machine learning challenges, and diving into web development. I have applied these skills to develop practical projects including a mental health analysis tool, a Spotify playlist streamer and downloader, and an AI-powered expense tracker. These experiences have equipped me with the skills to effectively address real-world engineering problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantkokane10&label=Profile%20views&color=0e75b6&style=flat" alt="vedantkokane10" /> </p>
 

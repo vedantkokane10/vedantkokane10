@@ -17,4 +17,6 @@
 <a href="[https://developer.apple.com/swift/](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="swift" width="40" height="40"/> </a>
 </p>
 
+![LeetCode Stats](https://leetcode.card.workers.dev/vedantkokane_10?theme=auto&font=baloo&extension=null)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantkokane10&show_icons=true&locale=en&layout=compact" alt="vedantkokane10" /></p>
